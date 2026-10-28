@@ -4,15 +4,12 @@
 - Habib
 - Cameilia
 
-# Eindopdracht Python
-
-## Naam
-Habib Husaini
-
 ## Beschrijving
-Dit is mijn eindopdracht voor Python.
+Voor de opdracht gaan we voor elke onderwerp branches aanmaken en oefeningen doen.
 
-## Functies
-- Gebruikers invoer
-- Berekeningen uitvoeren
-- Resultaten tonen
+## Onderwerpen
+- Variables
+- If-statements
+- Lists
+- Loops
+- Match case

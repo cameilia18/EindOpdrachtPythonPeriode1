@@ -1,4 +1,4 @@
-# EindOpdrachtPythonPeriode1/Habib/Camilia
+# EindOpdrachtPythonPeriode1
 
 ### Namen
 - Habib
